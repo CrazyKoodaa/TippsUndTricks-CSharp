@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getter und Setter mit unter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Felder als readonly markieren", "..\Felder als readonly markieren\Felder als readonly markieren.csproj", "{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeichenkette enthält eine Zahl", "..\Zeichenkette enthält eine Zahl\Zeichenkette enthält eine Zahl.csproj", "{3568C8DF-C01E-4AF1-8F3B-99B1059F7C9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3568C8DF-C01E-4AF1-8F3B-99B1059F7C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3568C8DF-C01E-4AF1-8F3B-99B1059F7C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3568C8DF-C01E-4AF1-8F3B-99B1059F7C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3568C8DF-C01E-4AF1-8F3B-99B1059F7C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
