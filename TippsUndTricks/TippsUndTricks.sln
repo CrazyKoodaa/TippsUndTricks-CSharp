@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeichenketten richtig vergl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richtig auf leere Zeichenkette prüfen", "..\Richtig auf leere Zeichenkette prüfen\Richtig auf leere Zeichenkette prüfen.csproj", "{2839E059-CADD-4F9C-9308-9ADE5A72B1C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mehrfachzuweisung vornehmen", "..\Mehrfachzuweisung vornehmen\Mehrfachzuweisung vornehmen.csproj", "{C8230B68-CBDF-4F94-97B3-5B48283DA7C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{2839E059-CADD-4F9C-9308-9ADE5A72B1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2839E059-CADD-4F9C-9308-9ADE5A72B1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2839E059-CADD-4F9C-9308-9ADE5A72B1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8230B68-CBDF-4F94-97B3-5B48283DA7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8230B68-CBDF-4F94-97B3-5B48283DA7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8230B68-CBDF-4F94-97B3-5B48283DA7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8230B68-CBDF-4F94-97B3-5B48283DA7C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
