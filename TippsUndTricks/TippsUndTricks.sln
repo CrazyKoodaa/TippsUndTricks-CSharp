@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultureInfo praktisch einse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Spielspaß", "..\Console Spielspaß\Console Spielspaß.csproj", "{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verzeichnis komprimieren", "..\Verzeichnis komprimieren\Verzeichnis komprimieren.csproj", "{750CF581-DA59-4024-8C49-1785384F96CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750CF581-DA59-4024-8C49-1785384F96CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750CF581-DA59-4024-8C49-1785384F96CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750CF581-DA59-4024-8C49-1785384F96CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750CF581-DA59-4024-8C49-1785384F96CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
