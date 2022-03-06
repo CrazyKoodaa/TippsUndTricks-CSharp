@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexzugriffe auf Arrays du
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getter und Setter mit unterschiedlichen Rechten", "..\Getter und Setter mit unterschiedlichen Rechten\Getter und Setter mit unterschiedlichen Rechten.csproj", "{6D354BE9-E2BC-4C01-A53D-2D91CEE6E752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Felder als readonly markieren", "..\Felder als readonly markieren\Felder als readonly markieren.csproj", "{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{6D354BE9-E2BC-4C01-A53D-2D91CEE6E752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D354BE9-E2BC-4C01-A53D-2D91CEE6E752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D354BE9-E2BC-4C01-A53D-2D91CEE6E752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A7921A-7C23-4A1F-980B-3B0E62AA81B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
