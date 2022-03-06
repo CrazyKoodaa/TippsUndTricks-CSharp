@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeichenkette enthält eine 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultureInfo praktisch einsetzen", "..\CultureInfo praktisch einsetzen\CultureInfo praktisch einsetzen.csproj", "{51AA8F78-A6FF-4B77-8A6B-A1618B32034D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Spielspaß", "..\Console Spielspaß\Console Spielspaß.csproj", "{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{51AA8F78-A6FF-4B77-8A6B-A1618B32034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51AA8F78-A6FF-4B77-8A6B-A1618B32034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51AA8F78-A6FF-4B77-8A6B-A1618B32034D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29766F7D-2342-4E8D-AAFC-360BB3DBEBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
