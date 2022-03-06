@@ -22,6 +22,7 @@ namespace Objekte_initialisieren
             //    "Hugo",
             //    "Anton"
             //};
+            #endregion
 
             // Aber Achtung!!!
             ClassA instance;
