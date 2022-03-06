@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null-Forgiving-Operator ein
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameOf-Operator anwenden", "..\NameOf-Operator anwenden\NameOf-Operator anwenden.csproj", "{6D7B7EC1-39B7-4468-A0BF-C1C63EC3DA28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String-Interpolation", "..\String-Interpolation\String-Interpolation.csproj", "{85475E1D-CE8C-409C-98A8-03460DC40FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6D7B7EC1-39B7-4468-A0BF-C1C63EC3DA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D7B7EC1-39B7-4468-A0BF-C1C63EC3DA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D7B7EC1-39B7-4468-A0BF-C1C63EC3DA28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85475E1D-CE8C-409C-98A8-03460DC40FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85475E1D-CE8C-409C-98A8-03460DC40FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85475E1D-CE8C-409C-98A8-03460DC40FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85475E1D-CE8C-409C-98A8-03460DC40FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
