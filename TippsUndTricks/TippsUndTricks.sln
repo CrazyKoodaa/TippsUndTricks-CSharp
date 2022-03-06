@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tupel in der Praxis nutzen"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Anweisung mit Typen erstellen", "..\Switch-Anweisung mit Typen erstellen\Switch-Anweisung mit Typen erstellen.csproj", "{BA2FC249-A82B-4EF4-A05F-A16FF846966F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreprocessorDirectives", "..\PreprocessorDirectives\PreprocessorDirectives.csproj", "{52F34AB1-709A-43EB-8642-CE2D17E181E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BA2FC249-A82B-4EF4-A05F-A16FF846966F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA2FC249-A82B-4EF4-A05F-A16FF846966F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA2FC249-A82B-4EF4-A05F-A16FF846966F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F34AB1-709A-43EB-8642-CE2D17E181E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F34AB1-709A-43EB-8642-CE2D17E181E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F34AB1-709A-43EB-8642-CE2D17E181E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F34AB1-709A-43EB-8642-CE2D17E181E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
