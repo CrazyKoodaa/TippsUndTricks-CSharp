@@ -5,7 +5,15 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TippsUndTricks", "TippsUndTricks.csproj", "{71D502F5-2555-45BB-BC53-56D8E137FDED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richtig auf Null prüfen", "..\Richtig auf Null prüfen\Richtig auf Null prüfen.csproj", "{9AF1221A-F7B1-46AC-86B6-F33723D0360B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richtig auf Null prüfen", "..\Richtig auf Null prüfen\Richtig auf Null prüfen.csproj", "{9AF1221A-F7B1-46AC-86B6-F33723D0360B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null-Conditional-Operator nutzen", "..\Null-Conditional-Operator nutzen\Null-Conditional-Operator nutzen.csproj", "{119F88AC-D8E2-4E66-8E45-E5C93F2AC511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null-Coalescing-Operator verwenden", "..\Null-Coalescing-Operator verwenden\Null-Coalescing-Operator verwenden.csproj", "{92F8CBE2-AD9C-4F28-9668-887315C7D755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ausnahme werfen, wenn ein Wert null ist", "..\Ausnahme werfen, wenn ein Wert null ist\Ausnahme werfen, wenn ein Wert null ist.csproj", "{B7B0014C-AA15-43A6-AA24-FFB17DE709CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null-Forgiving-Operator einsetzen", "..\Null-Forgiving-Operator einsetzen\Null-Forgiving-Operator einsetzen.csproj", "{E6412981-03C6-433F-8F24-4E6D87FBB632}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{9AF1221A-F7B1-46AC-86B6-F33723D0360B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AF1221A-F7B1-46AC-86B6-F33723D0360B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AF1221A-F7B1-46AC-86B6-F33723D0360B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119F88AC-D8E2-4E66-8E45-E5C93F2AC511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119F88AC-D8E2-4E66-8E45-E5C93F2AC511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119F88AC-D8E2-4E66-8E45-E5C93F2AC511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119F88AC-D8E2-4E66-8E45-E5C93F2AC511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F8CBE2-AD9C-4F28-9668-887315C7D755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F8CBE2-AD9C-4F28-9668-887315C7D755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F8CBE2-AD9C-4F28-9668-887315C7D755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F8CBE2-AD9C-4F28-9668-887315C7D755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B0014C-AA15-43A6-AA24-FFB17DE709CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B0014C-AA15-43A6-AA24-FFB17DE709CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B0014C-AA15-43A6-AA24-FFB17DE709CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B0014C-AA15-43A6-AA24-FFB17DE709CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6412981-03C6-433F-8F24-4E6D87FBB632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6412981-03C6-433F-8F24-4E6D87FBB632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6412981-03C6-433F-8F24-4E6D87FBB632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6412981-03C6-433F-8F24-4E6D87FBB632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

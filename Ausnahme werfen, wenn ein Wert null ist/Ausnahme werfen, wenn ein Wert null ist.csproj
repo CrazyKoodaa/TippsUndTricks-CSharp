@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ausnahme_werfen__wenn_ein_Wert_null_ist</RootNamespace>
+  </PropertyGroup>
+
+</Project>
